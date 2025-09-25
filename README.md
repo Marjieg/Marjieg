@@ -1,9 +1,11 @@
-## ¡Hola soy Marina Jiménez Egea!- Técnica en ASIR en formación👋
+## ¡Hola soy Marina Jiménez Egea! - Técnica ASIR en formación 👋
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581091870625-2ab99aa5032e?auto=format&fit=crop&w=800&q=80" alt="Redes" width="113"/>
-</p>
+Soy una entusiasta estudiante de Administración de Sistemas Informáticos en Red (ASIR), con ganas de aprender, innovar y resolver problemas tecnológicos. Me encanta todo lo relacionado con la infraestructura de sistemas, redes, seguridad informática y la automatización.
 
+- 🎓 Estudiante en ASIR, 2º Curso en I.E.S. Zaidín Vergeles
+- 💻 Apasionada por el mundo informático
+- 🛠️ Amante del cacharreo tecnológico
+- 🌐 Interesada en seguridad informática y redes
 
 
 <!--
