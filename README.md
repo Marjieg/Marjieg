@@ -1,6 +1,9 @@
 ## ¡Hola soy Marina Jiménez Egea!- Técnica en ASIR en formación👋
 
-![Banner](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581091870625-2ab99aa5032e?auto=format&fit=crop&w=800&q=80" alt="Redes" width="113"/>
+</p>
+
 
 
 <!--
