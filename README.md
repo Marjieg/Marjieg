@@ -1,4 +1,4 @@
-## ¡Hola soy Marina Jiménez Egea! - Técnica ASIR en formación 👋
+## ¡ Hola soy Marina Jiménez Egea ! - Técnica ASIR en formación 👋
 
 Soy una entusiasta estudiante de Administración de Sistemas Informáticos en Red (ASIR), con ganas de aprender, innovar y resolver problemas tecnológicos. Me encanta todo lo relacionado con la infraestructura de sistemas, redes, seguridad informática y la automatización.
 
@@ -7,7 +7,9 @@ Soy una entusiasta estudiante de Administración de Sistemas Informáticos en Re
 - 🛠️ Amante del cacharreo tecnológico
 - 🌐 Interesada en seguridad informática y redes
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default) 
 <!--
 **Marjieg/Marjieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
