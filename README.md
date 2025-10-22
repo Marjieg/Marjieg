@@ -12,19 +12,22 @@ Soy **Marina Jiménez Egea**, superviviente de la **última tienda de una multin
 - 🎓 **Formación épica:**  
   - ASIR (Nivel 2) – prácticas a partir de febrero ![ASIR](https://img.shields.io/badge/ASIR-2%C2%B0%20A%C3%B1o-blue)
   - Curso de extensión universitaria Samsung Innovation Campus en Inteligencia Artificial (UMA) 🤖 ![AI](https://img.shields.io/badge/IA-UMA-orange)
-  - Cursos de Introducción al Desarrollo Web + Desarrollo Front-End con HTML5 y CSS + Desarrollo FULL-STACK (JavaScript ES6, Angular, API´s de HTML5, API REST con Express, Node.js, MongoDB) 350h Full Stack (Universidad de Alcalá) 💻 ![Full Stack](https://img.shields.io/badge/Full%20Stack-UA-red)
+  - Cursos de Introducción al Desarrollo Web + Desarrollo Front-End con HTML5 y CSS + Desarrollo FULL-STACK (JavaScript ES6, Angular, API´s de HTML5, API REST con Express, Node.js, MongoDB) 350h (Universidad de Alcalá) 💻 ![Full Stack](https://img.shields.io/badge/Full%20Stack-UA-red)
   - CCNA (Parte 1 completada, Parte 2 en curso) 🌐 ![CCNA](https://img.shields.io/badge/CCNA-1%C2%B0%20Parte-brightgreen)
 
 ---
 
 ## ⚔️ Habilidades & Stats
 
-| Habilidad                 | Nivel | Barra de poder |
-|----------------------------|:----:|:-------------:|
-| Ciberseguridad             | 🌟     | ▓░░░░░░ |
-| Cloud                      | 🌟     | ▓░░░░░░░ |
-| Networking / CCNA          | 🌟🌟🌟 | ▓▓▓▓░░░░ |
-| Desarrollo Full Stack      | 🌟🌟🌟 | ▓▓▓▓░░░░ |
+| Habilidad                  |  Nivel | Barra de poder |
+|----------------------------|:------:|:-------------:|
+| Ciberseguridad             | 🌟     | ▓░░░░░░░░░ |
+| Cloud                      | 🌟     | ▓░░░░░░░░░ |
+| Networking / CCNA          | 🌟🌟🌟 | ▓▓▓▓░░░░░░ |
+| Virtualización             | 🌟🌟🌟 | ▓▓▓▓░░░░░░ |
+| Python                     | 🌟     | ▓░░░░░░░░░ |
+| php                        | 🌟     | ▓░░░░░░░░░ |
+| bash                       | 🌟     | ▓░░░░░░░░░ |
 | Cacharreo y reparación     | 🌟🌟🌟🌟🌟 | ▓▓▓▓▓▓▓▓▓ |
 
 > ![Cibersecurity Gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
